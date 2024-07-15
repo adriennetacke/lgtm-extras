@@ -41,9 +41,9 @@ Here, you should describe the actual bypassing mechanism – the temporary opera
 - **Requiring no approvers**: Not recommended; if choosing this as an option in your playbook, be sure to accompany it with lots of documentation and communication tasks.
 - **Allowing a self-approval on own PR**: Justification steps should be put into place if choosing this option. For example, when a PR is detected to have been self-approved, an additional step should request the author to input a reason. Additionally, automated notifications should be reported to the team or tech lead/manager that a self-approval has occurred.
 - **Allowing a manager or other stakeholder to approve a PR**: When there are no other choices, the pool of developers is small, or something really needs to get deployed, having a manager or other trusted stakeholder be an approver on a PR can be used as a bypassing mechanism as well. Justification steps should still be put into place, including the reason for requesting this particular approval.
-- **Other**: If any of the above don’t work, describe YOUR team’s bypassing mechanism will be.
+- **Other**: If any of the above don’t work, describe what YOUR team’s bypassing mechanism will be.
 
-**What associated actions need to be taken?** (Outline exact steps. Consider: granting or temporary elevated permissions, creation of a temporary privileged account, or temporary reconfiguring or settings/tool configurations among other possibilities.) **Be sure to also list the range of time these actions are valid for and who is to perform these actions.**
+**What associated actions need to be taken?** (Outline exact steps. Consider: granting temporarily elevated permissions, creation of a temporary privileged account, or temporary reconfiguring or settings/tool configurations among other possibilities.) **Be sure to also list the range of time these actions are valid for and who is to perform these actions.**
 
 
 
