@@ -1,4 +1,4 @@
-# Team Working Agreement [Code Review]
+# Emergency Playbook
 _Starter Template made available through "Looks Good To Me: Constructive Code Reviews" by Adrienne Braganza_. 
 
 _To help your team get started with an Emergency Playbook, I’ve provided this template. This is intended to get your team conversing with each other, agree to certain questions, and to jumpstart the creation of your own Emergency Playbook. 
